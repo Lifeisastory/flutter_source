@@ -1,5 +1,5 @@
-import 'min_framework/main.dart' as minFramework;
+import 'min_framework/main.dart' as min_framework;
 
 void main() {
-  minFramework.main();
+  min_framework.main();
 }
